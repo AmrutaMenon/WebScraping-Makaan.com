@@ -1,0 +1,101 @@
+,Construction,Area_in_Sqft,Price,Owner_info,Locality,BHK
+0,Under Construction,2810, 1.6 Cr,BUILDER,Manikonda,3 
+1,Ready to move,1495, 1.43 Cr,BUILDER,Shaikpet,2 
+2,Under Construction,1295, 56.98 L,BUILDER,Bachupally,2 
+3,Under Construction,890, 43.6 L,BUILDER,Shamshabad,2 
+4,Under Construction,1431, 65.82 L,BUILDER,Tellapur,3 
+5,Under Construction,2540, 1.65 Cr,BUILDER,Attapur,3 
+6,Under Construction,4147, 6.22 Cr,BUILDER,Serilingampally,4 
+7,Under Construction,2615, 1.41 Cr,BUILDER,Yapral,3 
+8,New,3150, 1.11 Cr,BUILDER,Sheriguda,Residential Plot
+9,Under Construction,1538, 95.35 L,BUILDER,Manikonda,3 
+10,Under Construction,2300, 1.45 Cr,BUILDER,Bachupally,4 
+11,Under Construction,1250, 56.25 L,BUILDER,Ghatkesar,2 
+12,Under Construction,1310, 72.05 L,BUILDER,Attapur,2 
+13,Under Construction,1790, 84.13 L,BUILDER,Kompally,3 
+14,Under Construction,3120, 1.46 Cr,BUILDER,Shankarpalli,3 
+15,Ready to move,1415, 96.22 L,BUILDER,Nanakramguda,3 
+16,Under Construction,1503, 63.11 L,BUILDER,Mallampet,3 
+17,Ready to move,3498, 2.9 Cr,BUILDER,Hitech City,4 
+18,Under Construction,1704, 97.11 L,BUILDER,Manikonda,3 
+19,Ready to move,2965, 3.04 Cr,BUILDER,Shaikpet,4 
+20,Under Construction,1195, 52.58 L,BUILDER,Bachupally,2 
+21,Under Construction,905, 44.33 L,BUILDER,Shamshabad,2 
+22,Under Construction,1435, 66.01 L,BUILDER,Tellapur,3 
+23,Under Construction,2540, 1.65 Cr,BUILDER,Attapur,3 
+24,Under Construction,3262, 4.89 Cr,BUILDER,Serilingampally,4 
+25,Under Construction,2950, 1.59 Cr,BUILDER,Yapral,3 
+26,New,3150, 1.11 Cr,BUILDER,Sheriguda,Residential Plot
+27,Under Construction,1505, 93.31 L,BUILDER,Manikonda,3 
+28,Under Construction,1215, 54.67 L,BUILDER,Ghatkesar,2 
+29,Under Construction,1485, 81.67 L,BUILDER,Attapur,3 
+30,Under Construction,1270, 59.69 L,BUILDER,Kompally,2 
+31,Under Construction,3000, 1.41 Cr,BUILDER,Shankarpalli,3 
+32,Ready to move,1425, 96.9 L,BUILDER,Nanakramguda,3 
+33,Under Construction,1107, 46.48 L,BUILDER,Mallampet,2 
+34,Ready to move,3031, 2.56 Cr,BUILDER,Hitech City,4 
+35,Under Construction,2810, 1.6 Cr,BUILDER,Manikonda,3 
+36,Ready to move,1865, 1.77 Cr,BUILDER,Shaikpet,3 
+37,Under Construction,1695, 74.58 L,BUILDER,Bachupally,3 
+38,Under Construction,945, 48.65 L,BUILDER,Shamshabad,2 
+39,Under Construction,1570, 72.22 L,BUILDER,Tellapur,3 
+40,Under Construction,2540, 1.65 Cr,BUILDER,Attapur,3 
+41,Under Construction,4258, 6.38 Cr,BUILDER,Serilingampally,4 
+42,Under Construction,2420, 1.3 Cr,BUILDER,Yapral,3 
+43,New,1800, 63.99 L,BUILDER,Sheriguda,Residential Plot
+44,Under Construction,1245, 77.19 L,BUILDER,Manikonda,2 
+45,Under Construction,1480, 66.6 L,BUILDER,Ghatkesar,3 
+46,Under Construction,1795, 98.72 L,BUILDER,Attapur,3 
+47,Under Construction,1725, 81.07 L,BUILDER,Kompally,3 
+48,Under Construction,1512, 63.48 L,BUILDER,Mallampet,3 
+49,Ready to move,1439, 43.17 L,OWNER,Patancheru,2 
+50,Under Construction,1597, 92.62 L,AGENT,Tellapur,3 
+51,Ready to move,1050, 47 L,AGENT,Nacharam,2 
+52,Under Construction,1100, 69 L,OWNER,Nagole,2 
+53,Under Construction,2600, 80 L,OWNER,Mokila,2 
+54,Under Construction,1230, 82.41 L,OWNER,Puppalaguda,2 
+55,Under Construction,1450, 98 L,OWNER,Madhapur,3 
+56,Ready to move,5400, 2.9 Cr,OWNER,Saidabad,9 
+57,Ready to move,1800, 77.99 L,OWNER,Indresham,4 
+58,Under Construction,2300, 1.12 Cr,OWNER,Sainikpuri,6 
+59,Under Construction,1025, 62.37 L,AGENT,Aushapur,3 
+60,Ready to move,1350, 2.5 Cr,OWNER,Chandanagar,2 
+61,Under Construction,1250, 50 L,OWNER,Kollur,2 
+62,Ready to move,9468, 3.5 Cr,OWNER,Mehdipatnam,10 
+63,Under Construction,1585, 42.77 L,OWNER,muthangi,3 
+64,Ready to move,1200, 60 L,OWNER,Ramachandra Puram,2 
+65,Ready to move,1168, 59 L,OWNER,Mallapur,2 
+66,Under Construction,1205, 42.17 L,OWNER,Chandanagar Vill,3 
+67,Under Construction,1100, 40 L,OWNER,Kompally,2 
+68,Under Construction,2200, 78 L,OWNER,Kundanpally,4 
+69,Ready to move,1800, 1.2 Cr,OWNER,Kukatpally,3 
+70,Ready to move,1655, 1.2 Cr,OWNER,Narsingi,3 
+71,Ready to move,1285, 55 L,OWNER,Gajularamaram,2 
+72,Ready to move,756, 1.4 Cr,OWNER,Jubilee Hills,3 
+73,Ready to move,2414, 2.9 Cr,OWNER,Banjara Hills,3 
+74,Ready to move,1602, 1.1 Cr,OWNER,Banjara Hills,3 
+75,Ready to move,935, 45 L,OWNER,Amberpet,2 
+76,Ready to move,5740, 6 Cr,OWNER,Nallagandla Gachibowli,6 
+77,Ready to move,1300, 70 L,OWNER,Manikonda,2 
+78,Ready to move,1705, 59 L,OWNER,Nizampet,3 
+79,Ready to move,1136, 45 L,OWNER,Shadnagar,2 
+80,Resale,1314, 11.26 L,OWNER,Shadnagar,Residential Plot
+81,Resale,900, 30 L,OWNER,chandrayangutta,Residential Plot
+82,Resale,1503, 44 L,OWNER,Medchal,Residential Plot
+83,Ready to move,3000, 1.31 Cr,OWNER,AS Rao Nagar,3 
+84,Ready to move,830, 38 L,OWNER,Serilingampally,2 
+85,Ready to move,1290, 64.9 L,OWNER,Puppalaguda,2 
+86,Ready to move,4400, 2.5 Cr,OWNER,Kothapet,5 
+87,Ready to move,1332, 93 L,OWNER,Bandlaguda Jagir,3 
+88,Under Construction,1300, 60 L,OWNER,Pasumamula,2 
+89,Ready to move,1360, 1.29 Cr,OWNER,Madhapur,2 
+90,Ready to move,900, 45 L,OWNER,Kishan Bagh,3 
+91,Ready to move,1197, 62 L,OWNER,Chengicherla,2 
+92,Ready to move,700, 26 L,OWNER,Manikonda,2 
+93,Ready to move,1130, 53.72 L,OWNER,Karmanghat,2 
+94,Ready to move,870, 32 L,OWNER,Meerpet,2 
+95,Ready to move,1870, 1.66 Cr,OWNER,Nanakramguda,3 
+96,Under Construction,1800, 1 Cr,OWNER,Kondakal,4 
+97,Ready to move,864, 32 L,OWNER,Jeedimetla,2 
+98,Ready to move,1220, 65 L,OWNER,Suchitra,2 
+99,Resale,1500, 28 L,OWNER,Shankarpalli,Residential Plot
