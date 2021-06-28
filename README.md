@@ -1,9 +1,9 @@
-# WebScrapping-Makaan.com
+# WebScraping-Makaan.com
 ## Objective:
 Makaan.com is an online real estate portal in India, launched in 2007. It has a rating system for brokers. Here, the objective is to scrap 50 pages of real estate data belonging to hyderabad from Makaan.com
 #### Website link: https://www.makaan.com/hyderabad-residential-property/buy-property-in-hyderabad-city?_=1624536394722
 
-## Data Scrapped:
+## Data Scraped:
 
 1. Locality
 
