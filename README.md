@@ -38,4 +38,4 @@ Python3
 
 ## Conclusion
 
-  Scrapped details of all the MacBooks listed on FlipKart such as Locality, Owner Information, BHK information, Area in sqft, Price, Price per sqft, Construction Status and created Data Frames to arrange the collected data in a tabular form.
+  Scrapped data such as Locality, Owner Information, BHK information, Area in sqft, Price, Price per sqft, Construction Status from 50 pages of Makaan.com from Hyderabad and created Data Frames to arrange the collected data in a tabular form.
